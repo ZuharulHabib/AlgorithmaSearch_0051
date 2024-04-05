@@ -29,3 +29,8 @@ void input()
 } 
 
 void LinearSerach()
+{
+	char ch;
+	int ctr; // Number of comparisons
+	int item;
+}
