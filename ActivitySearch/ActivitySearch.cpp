@@ -62,3 +62,5 @@ void LinearSerach()
 
 	} while ((ch == 'y') || (ch == 'Y'));
 }
+
+void displaly()
