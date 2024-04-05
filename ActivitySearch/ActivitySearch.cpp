@@ -27,3 +27,5 @@ void input()
 		cin >> arr[i];
 	}
 } 
+
+void LinearSerach()
