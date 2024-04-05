@@ -28,7 +28,7 @@ void input()
 	}
 } 
 
-void LinearSerach()
+void LinearSearch()
 {
 	char ch;
 	int ctr; // Number of comparisons
@@ -73,4 +73,5 @@ void displaly()
 int main()
 {
 	input();
+	LinearSearch();
 }
