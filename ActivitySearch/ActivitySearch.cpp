@@ -64,3 +64,9 @@ void LinearSerach()
 }
 
 void displaly()
+{
+	cout << "Array elements are: ";
+	for (i = 0; i < n; i++)
+		cout << arr[i] << " ";
+	cout << endl;
+}
