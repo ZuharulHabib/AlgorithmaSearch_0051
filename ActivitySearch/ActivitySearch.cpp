@@ -70,3 +70,4 @@ void displaly()
 		cout << arr[i] << " ";
 	cout << endl;
 }
+int main()
