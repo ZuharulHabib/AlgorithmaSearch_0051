@@ -75,4 +75,4 @@ int main()
 	input();
 	LinearSearch();
 	displaly();
-}
+} 
