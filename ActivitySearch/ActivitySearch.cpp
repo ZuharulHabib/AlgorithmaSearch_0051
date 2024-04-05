@@ -17,4 +17,4 @@ void input()
 			cout << "\nArray should have minimum 1 an maximum 20 element. \n\n";
 
 	}
-}
+} 
