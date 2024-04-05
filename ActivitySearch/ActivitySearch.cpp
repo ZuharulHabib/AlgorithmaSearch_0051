@@ -15,6 +15,11 @@ void input()
 			break;
 		else
 			cout << "\nArray should have minimum 1 an maximum 20 element. \n\n";
-
 	}
+
+	//Accept array element
+	cout << "\n--------------------\n";
+	cout << " Enter array element \n";
+	cout << " --------------------\n";
+	for (i = 0; i < n; i++)
 } 
